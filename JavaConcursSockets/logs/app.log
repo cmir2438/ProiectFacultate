@@ -1,0 +1,1292 @@
+13 Apr 2019 23:41:23,789 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:41:23,820 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+13 Apr 2019 23:41:23,820 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+13 Apr 2019 23:41:23,836 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+13 Apr 2019 23:41:24,926 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+13 Apr 2019 23:41:24,926 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:41:25,004 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+13 Apr 2019 23:41:25,004 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:41:25,004 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+13 Apr 2019 23:41:25,004 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:41:25,004 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+13 Apr 2019 23:42:12,571 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:42:12,571 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+13 Apr 2019 23:42:12,571 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+13 Apr 2019 23:42:12,587 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+13 Apr 2019 23:42:13,680 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+13 Apr 2019 23:42:13,680 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:42:13,680 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+13 Apr 2019 23:42:13,696 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:42:13,696 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+13 Apr 2019 23:42:13,696 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:42:13,712 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+13 Apr 2019 23:45:30,899 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:45:30,915 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+13 Apr 2019 23:45:30,915 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+13 Apr 2019 23:45:30,931 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+13 Apr 2019 23:45:31,665 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+13 Apr 2019 23:45:31,712 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:45:31,712 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+13 Apr 2019 23:45:31,743 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:45:31,743 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+13 Apr 2019 23:45:31,806 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+13 Apr 2019 23:45:31,806 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:04:42,975 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:04:43,006 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 11:04:43,006 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 11:04:43,037 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 11:04:44,568 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 11:04:44,693 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:04:44,693 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 11:04:44,693 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:04:44,709 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 11:04:44,740 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:04:44,740 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 11:23:18,983 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:23:19,030 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 11:23:19,046 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 11:23:19,093 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 11:23:20,702 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:23:20,718 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:23:20,718 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:23:20,718 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:23:20,718 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:23:20,718 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:23:20,733 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:45:42,840 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:45:42,934 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 11:45:42,934 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 11:45:42,950 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 11:45:44,512 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:45:44,590 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:45:44,590 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:45:44,590 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:45:44,590 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 11:45:44,622 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 11:45:44,622 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:13:10,598 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:13:10,639 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 17:13:10,643 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 17:13:10,855 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 17:13:12,907 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 17:13:13,010 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:13:13,010 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 17:13:13,041 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:13:13,041 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 17:13:13,123 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:13:13,123 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 17:19:32,146 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:19:32,162 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 17:19:32,162 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 17:19:32,177 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 17:19:33,759 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:19:33,774 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:19:33,774 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:19:33,774 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:19:33,774 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:19:33,790 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:19:33,790 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:20:13,755 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:22:36,774 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:23:23,543 [Thread-2] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:24:14,370 [Thread-3] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:24:19,859 [Thread-4] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:25:13,380 [Thread-5] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:42:07,905 [Thread-6] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:53:27,062 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:53:27,161 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 17:53:27,169 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 17:53:27,247 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 17:53:29,186 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:53:29,774 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:53:29,775 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:53:29,838 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:53:29,839 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:53:30,282 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:53:30,283 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 17:54:12,772 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:54:13,975 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 17:54:15,011 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 17:54:22,909 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:54:22,923 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@38306252, concurs.model.DTOInscriere@3ded8117, concurs.model.DTOInscriere@56a13ca5, concurs.model.DTOInscriere@393ad0b0, concurs.model.DTOInscriere@2230737, concurs.model.DTOInscriere@5397db5d, concurs.model.DTOInscriere@c8c819e, concurs.model.DTOInscriere@63dc6fef, concurs.model.DTOInscriere@79dcd61c, concurs.model.DTOInscriere@147cb749, concurs.model.DTOInscriere@7c944429, concurs.model.DTOInscriere@7c37ff43]
+14 Apr 2019 17:54:44,884 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 17:54:44,910 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:3242342 
+14 Apr 2019 17:54:45,030 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 17:57:02,971 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:57:02,984 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 17:57:02,991 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 17:57:03,004 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 17:57:04,613 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 17:57:04,661 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:57:04,661 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 17:57:04,664 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:57:04,665 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 17:57:04,676 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 17:57:04,677 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+14 Apr 2019 17:57:23,941 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 17:57:24,981 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 17:57:26,008 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 17:57:29,015 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:29,022 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@5c0eb51e, concurs.model.DTOInscriere@160c2d00, concurs.model.DTOInscriere@76fcc1ce, concurs.model.DTOInscriere@1746c333, concurs.model.DTOInscriere@3e492280, concurs.model.DTOInscriere@49da7c64, concurs.model.DTOInscriere@59b83620, concurs.model.DTOInscriere@78c6297f, concurs.model.DTOInscriere@f6c49c5, concurs.model.DTOInscriere@15cf2d10, concurs.model.DTOInscriere@dde00bf, concurs.model.DTOInscriere@449a4daa]
+14 Apr 2019 17:57:30,095 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:30,105 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@61e461d7, concurs.model.DTOInscriere@75bb2868, concurs.model.DTOInscriere@42045b7c, concurs.model.DTOInscriere@1c9830a4, concurs.model.DTOInscriere@5eb00039, concurs.model.DTOInscriere@72648bef, concurs.model.DTOInscriere@125bf164, concurs.model.DTOInscriere@4f9bfe9b, concurs.model.DTOInscriere@11749e99, concurs.model.DTOInscriere@479944ab, concurs.model.DTOInscriere@a844ded, concurs.model.DTOInscriere@1afb1500, concurs.model.DTOInscriere@2f4ed090, concurs.model.DTOInscriere@227f65ce]
+14 Apr 2019 17:57:36,721 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:36,731 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7369359b, concurs.model.DTOInscriere@44de175, concurs.model.DTOInscriere@17b4b538, concurs.model.DTOInscriere@1860f1fd, concurs.model.DTOInscriere@221fca87, concurs.model.DTOInscriere@4932c1f8, concurs.model.DTOInscriere@7b9da093, concurs.model.DTOInscriere@64ed4904, concurs.model.DTOInscriere@387afcec, concurs.model.DTOInscriere@6798d71a]
+14 Apr 2019 17:57:37,738 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:37,743 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@1e5bb5fd, concurs.model.DTOInscriere@48dbaeac, concurs.model.DTOInscriere@501f1dac, concurs.model.DTOInscriere@66d318c2, concurs.model.DTOInscriere@25e4bdb8, concurs.model.DTOInscriere@305fc966, concurs.model.DTOInscriere@188550bc, concurs.model.DTOInscriere@666e5e66, concurs.model.DTOInscriere@66e7266e, concurs.model.DTOInscriere@28bdd72d, concurs.model.DTOInscriere@1a0f7236, concurs.model.DTOInscriere@e86827f, concurs.model.DTOInscriere@518d0197, concurs.model.DTOInscriere@17cfa034]
+14 Apr 2019 17:57:38,748 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:38,752 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@46bf27ac, concurs.model.DTOInscriere@70dc3da6, concurs.model.DTOInscriere@133cdc40, concurs.model.DTOInscriere@397e67d7, concurs.model.DTOInscriere@643b513, concurs.model.DTOInscriere@17e38970, concurs.model.DTOInscriere@62489910, concurs.model.DTOInscriere@28421a51, concurs.model.DTOInscriere@33b2c967, concurs.model.DTOInscriere@38917e68, concurs.model.DTOInscriere@1eb7e073, concurs.model.DTOInscriere@269ff166]
+14 Apr 2019 17:57:39,756 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:39,761 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7a98cb01, concurs.model.DTOInscriere@33e90476, concurs.model.DTOInscriere@35d6259a, concurs.model.DTOInscriere@703f364a, concurs.model.DTOInscriere@4c432b8f, concurs.model.DTOInscriere@37725cc5, concurs.model.DTOInscriere@330c4544, concurs.model.DTOInscriere@3a88a809, concurs.model.DTOInscriere@6fc2e384, concurs.model.DTOInscriere@4a730ecd, concurs.model.DTOInscriere@1b0444a2, concurs.model.DTOInscriere@64b36f2b, concurs.model.DTOInscriere@1c157efa, concurs.model.DTOInscriere@4ec21ed3]
+14 Apr 2019 17:57:40,773 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:40,776 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@46edd48, concurs.model.DTOInscriere@6d13ef82, concurs.model.DTOInscriere@7c25bc89, concurs.model.DTOInscriere@2a0a69, concurs.model.DTOInscriere@725c03b9, concurs.model.DTOInscriere@419d8f, concurs.model.DTOInscriere@51d1a8fa, concurs.model.DTOInscriere@17899eb, concurs.model.DTOInscriere@13ab03b6, concurs.model.DTOInscriere@1f0a49a9]
+14 Apr 2019 17:57:41,778 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:41,781 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6bdcaa3a, concurs.model.DTOInscriere@211c1753, concurs.model.DTOInscriere@33b13a62, concurs.model.DTOInscriere@4f4ffc9d, concurs.model.DTOInscriere@414c0234, concurs.model.DTOInscriere@2b33c1, concurs.model.DTOInscriere@3af37b8c, concurs.model.DTOInscriere@a68d35b, concurs.model.DTOInscriere@2b943d80, concurs.model.DTOInscriere@7278b608, concurs.model.DTOInscriere@53768cd0, concurs.model.DTOInscriere@1f487fee, concurs.model.DTOInscriere@15ba29ba, concurs.model.DTOInscriere@22c515f3]
+14 Apr 2019 17:57:42,785 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:42,791 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@e326fb4, concurs.model.DTOInscriere@da41a71, concurs.model.DTOInscriere@563ee1ae, concurs.model.DTOInscriere@79235471, concurs.model.DTOInscriere@64f1cb2e, concurs.model.DTOInscriere@49ab2253, concurs.model.DTOInscriere@68b98959, concurs.model.DTOInscriere@bdad8e3, concurs.model.DTOInscriere@6198da0d, concurs.model.DTOInscriere@7131d5d7, concurs.model.DTOInscriere@556669e9, concurs.model.DTOInscriere@826ae66]
+14 Apr 2019 17:57:43,801 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 17:57:43,811 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@31277198, concurs.model.DTOInscriere@7b3eb982, concurs.model.DTOInscriere@3bf3d0eb, concurs.model.DTOInscriere@7784bd0b, concurs.model.DTOInscriere@7d25b9d2, concurs.model.DTOInscriere@7359fd5d, concurs.model.DTOInscriere@56880f55, concurs.model.DTOInscriere@4369c6a, concurs.model.DTOInscriere@540d5e17, concurs.model.DTOInscriere@6802e2de]
+14 Apr 2019 18:04:17,059 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:17,069 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@445a9a83, concurs.model.DTOInscriere@612a4513, concurs.model.DTOInscriere@422817f9, concurs.model.DTOInscriere@c0f3c61, concurs.model.DTOInscriere@1c9121e1, concurs.model.DTOInscriere@2f20edbd, concurs.model.DTOInscriere@2d35a07f, concurs.model.DTOInscriere@582c6d8c, concurs.model.DTOInscriere@4da7d141, concurs.model.DTOInscriere@65c2904d, concurs.model.DTOInscriere@65f4f2d2, concurs.model.DTOInscriere@5e8fb3ed, concurs.model.DTOInscriere@2dd14ca4, concurs.model.DTOInscriere@5ce0f1ab]
+14 Apr 2019 18:04:18,078 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:18,081 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@3e34d892, concurs.model.DTOInscriere@761bb817, concurs.model.DTOInscriere@d292edb, concurs.model.DTOInscriere@54f47aff, concurs.model.DTOInscriere@4c1cc8bb, concurs.model.DTOInscriere@67ec1a2f, concurs.model.DTOInscriere@23f7bfff, concurs.model.DTOInscriere@54231afc, concurs.model.DTOInscriere@7ed049d3, concurs.model.DTOInscriere@79ea1944, concurs.model.DTOInscriere@677c59c1, concurs.model.DTOInscriere@2b444b28]
+14 Apr 2019 18:04:19,085 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:19,088 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7c5829e7, concurs.model.DTOInscriere@5fd9dbb1, concurs.model.DTOInscriere@69e98bb0, concurs.model.DTOInscriere@35795033, concurs.model.DTOInscriere@8d3406a, concurs.model.DTOInscriere@19461692, concurs.model.DTOInscriere@3c57ba01, concurs.model.DTOInscriere@43d08d70, concurs.model.DTOInscriere@51924570, concurs.model.DTOInscriere@78c92b56, concurs.model.DTOInscriere@79cf11fc, concurs.model.DTOInscriere@3eb3b8b8, concurs.model.DTOInscriere@7d49c3db, concurs.model.DTOInscriere@4cebc4bf]
+14 Apr 2019 18:04:20,091 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:20,099 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7f9c06ef, concurs.model.DTOInscriere@3f6db6b2, concurs.model.DTOInscriere@703854ce, concurs.model.DTOInscriere@fc90747, concurs.model.DTOInscriere@107dd32f, concurs.model.DTOInscriere@42772fb4, concurs.model.DTOInscriere@70db8d10, concurs.model.DTOInscriere@376f5f73, concurs.model.DTOInscriere@4975061a, concurs.model.DTOInscriere@32048a0f]
+14 Apr 2019 18:04:21,103 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:21,107 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7a7e2bcb, concurs.model.DTOInscriere@7aedbde3, concurs.model.DTOInscriere@1847e528, concurs.model.DTOInscriere@e21b989, concurs.model.DTOInscriere@58aebf5, concurs.model.DTOInscriere@121f5c02, concurs.model.DTOInscriere@35d695cc, concurs.model.DTOInscriere@36389f0e, concurs.model.DTOInscriere@643f1f7f, concurs.model.DTOInscriere@c28a0b6, concurs.model.DTOInscriere@d513c0a, concurs.model.DTOInscriere@7fe30241, concurs.model.DTOInscriere@63bb3e25, concurs.model.DTOInscriere@2a5f0ff4]
+14 Apr 2019 18:04:22,136 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:22,138 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@35b3595, concurs.model.DTOInscriere@7ff236ae, concurs.model.DTOInscriere@75e096a9, concurs.model.DTOInscriere@400b15ee, concurs.model.DTOInscriere@1a2667e7, concurs.model.DTOInscriere@748f654b, concurs.model.DTOInscriere@52bf0ad, concurs.model.DTOInscriere@1d173183, concurs.model.DTOInscriere@34276499, concurs.model.DTOInscriere@3b0dea6b]
+14 Apr 2019 18:04:23,141 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:23,148 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@3db5f0b8, concurs.model.DTOInscriere@14267ca8, concurs.model.DTOInscriere@6ae21a76, concurs.model.DTOInscriere@4b3f14b5, concurs.model.DTOInscriere@599d0d5a, concurs.model.DTOInscriere@7ef9f9fd, concurs.model.DTOInscriere@4327dfe, concurs.model.DTOInscriere@379b5b71, concurs.model.DTOInscriere@6dd7705, concurs.model.DTOInscriere@37da4032, concurs.model.DTOInscriere@209006ba, concurs.model.DTOInscriere@4d3d910a]
+14 Apr 2019 18:04:24,153 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:24,161 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7ced306c, concurs.model.DTOInscriere@2241271b, concurs.model.DTOInscriere@720e16be, concurs.model.DTOInscriere@8aca1f3, concurs.model.DTOInscriere@1dd78eda, concurs.model.DTOInscriere@36051b84, concurs.model.DTOInscriere@343c401c, concurs.model.DTOInscriere@5972cc51, concurs.model.DTOInscriere@78f238fb, concurs.model.DTOInscriere@6635d55a]
+14 Apr 2019 18:04:25,173 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:04:25,182 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7c51ccd8, concurs.model.DTOInscriere@1f436afd, concurs.model.DTOInscriere@4a50a990, concurs.model.DTOInscriere@1506e276, concurs.model.DTOInscriere@67c3db02, concurs.model.DTOInscriere@63535185, concurs.model.DTOInscriere@2c006856, concurs.model.DTOInscriere@e372af2, concurs.model.DTOInscriere@77d5fbfd, concurs.model.DTOInscriere@ef343fb, concurs.model.DTOInscriere@219ed8ab, concurs.model.DTOInscriere@164906d0, concurs.model.DTOInscriere@4e1b0df7, concurs.model.DTOInscriere@5a636354]
+14 Apr 2019 18:15:48,348 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 18:15:48,367 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 18:15:48,375 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 18:15:48,423 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 18:15:49,772 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 18:15:49,839 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 18:15:49,839 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 18:15:49,863 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 18:15:49,864 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 18:15:49,902 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 18:15:49,903 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 18:16:29,680 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 18:16:30,997 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 18:16:32,023 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 18:16:36,675 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:16:36,875 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@69abebdc, concurs.model.DTOInscriere@7413ed30, concurs.model.DTOInscriere@3942717, concurs.model.DTOInscriere@7099fe48, concurs.model.DTOInscriere@46da1e8c, concurs.model.DTOInscriere@2dcb010a, concurs.model.DTOInscriere@fc5373b, concurs.model.DTOInscriere@3091f335, concurs.model.DTOInscriere@2629b5d5, concurs.model.DTOInscriere@539f234b, concurs.model.DTOInscriere@7545baec, concurs.model.DTOInscriere@4a72f72a, concurs.model.DTOInscriere@219e74ac, concurs.model.DTOInscriere@bb19eaf]
+14 Apr 2019 18:16:38,059 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:16:38,065 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@10dc1c8a, concurs.model.DTOInscriere@35c51e1e, concurs.model.DTOInscriere@1c109209, concurs.model.DTOInscriere@28ed70bf, concurs.model.DTOInscriere@58a51164, concurs.model.DTOInscriere@458dd180, concurs.model.DTOInscriere@5d9593e2, concurs.model.DTOInscriere@1e3e7867, concurs.model.DTOInscriere@6ee074f5, concurs.model.DTOInscriere@454aa978, concurs.model.DTOInscriere@34b138b0, concurs.model.DTOInscriere@59218301]
+14 Apr 2019 18:16:39,106 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 18:16:39,110 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@3edc15eb, concurs.model.DTOInscriere@7756d9e0, concurs.model.DTOInscriere@e43b2fc, concurs.model.DTOInscriere@307dedb6, concurs.model.DTOInscriere@6ed0c51f, concurs.model.DTOInscriere@2f8888fc, concurs.model.DTOInscriere@3ccf1ba3, concurs.model.DTOInscriere@638051d1, concurs.model.DTOInscriere@b909883, concurs.model.DTOInscriere@60b42e65]
+14 Apr 2019 19:10:31,379 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 19:10:31,418 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 19:10:31,439 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 19:10:31,465 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 19:10:33,440 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 19:10:33,499 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 19:10:33,499 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 19:10:33,529 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 19:10:33,529 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 19:10:33,634 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 19:10:33,635 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 19:11:50,892 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 19:11:52,102 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 19:11:53,144 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 19:11:56,994 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 19:11:57,033 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@d586589, concurs.model.DTOInscriere@4c1d0fe1, concurs.model.DTOInscriere@6213f296, concurs.model.DTOInscriere@522ad62a, concurs.model.DTOInscriere@1c1085cb, concurs.model.DTOInscriere@38d6e3af, concurs.model.DTOInscriere@452c3161, concurs.model.DTOInscriere@41b33468, concurs.model.DTOInscriere@5915cf48, concurs.model.DTOInscriere@56d1945e, concurs.model.DTOInscriere@72d200dc, concurs.model.DTOInscriere@2a9a7a9a, concurs.model.DTOInscriere@5d028f0e, concurs.model.DTOInscriere@7ab9394]
+14 Apr 2019 19:12:03,638 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 19:12:03,646 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@67ea9169, concurs.model.DTOInscriere@77c159, concurs.model.DTOInscriere@a1bffbf, concurs.model.DTOInscriere@29ebe7f4, concurs.model.DTOInscriere@1a394a79, concurs.model.DTOInscriere@24fa3d6e, concurs.model.DTOInscriere@71c9c849, concurs.model.DTOInscriere@7eb55c3, concurs.model.DTOInscriere@5751adc5, concurs.model.DTOInscriere@2235fb0c]
+14 Apr 2019 19:12:04,843 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 19:12:04,848 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@45a9657f, concurs.model.DTOInscriere@36fe0f91, concurs.model.DTOInscriere@32452e2c, concurs.model.DTOInscriere@1e91a5b, concurs.model.DTOInscriere@fe51584, concurs.model.DTOInscriere@49a1116e, concurs.model.DTOInscriere@528e7238, concurs.model.DTOInscriere@1b7c91f0, concurs.model.DTOInscriere@3c12ee2e, concurs.model.DTOInscriere@7df9a2a3, concurs.model.DTOInscriere@5c471096, concurs.model.DTOInscriere@234bf9ff, concurs.model.DTOInscriere@8831026, concurs.model.DTOInscriere@385f472f]
+14 Apr 2019 19:12:05,852 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 19:12:05,863 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@4d4fb1a7, concurs.model.DTOInscriere@2fe67001, concurs.model.DTOInscriere@5b659f22, concurs.model.DTOInscriere@3212d63c, concurs.model.DTOInscriere@2608b50, concurs.model.DTOInscriere@1e1a9565, concurs.model.DTOInscriere@69f1850b, concurs.model.DTOInscriere@4d761d3f, concurs.model.DTOInscriere@4b4a25ca, concurs.model.DTOInscriere@131207b, concurs.model.DTOInscriere@640d348b, concurs.model.DTOInscriere@196f42d0]
+14 Apr 2019 19:12:39,622 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 19:12:39,646 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:3213124323423 
+14 Apr 2019 19:12:39,951 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 21:48:21,318 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:48:21,349 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 21:48:21,349 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 21:48:21,411 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 21:48:23,089 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:48:23,105 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:48:23,105 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:48:23,105 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:48:23,105 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:48:23,105 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:48:23,105 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:50:31,371 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 21:50:32,522 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 21:50:33,546 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 21:50:40,723 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:50:40,774 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@ce4eb6f, concurs.model.DTOInscriere@3219300b, concurs.model.DTOInscriere@293fd07d, concurs.model.DTOInscriere@66ce8758, concurs.model.DTOInscriere@4ddaa77d, concurs.model.DTOInscriere@36384fa5, concurs.model.DTOInscriere@6153dd27, concurs.model.DTOInscriere@73b56212, concurs.model.DTOInscriere@6b4cc256, concurs.model.DTOInscriere@1f7dedfd, concurs.model.DTOInscriere@6038b1d0, concurs.model.DTOInscriere@3845fa37]
+14 Apr 2019 21:50:41,853 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:50:41,862 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@222f9cb1, concurs.model.DTOInscriere@22c8a96c, concurs.model.DTOInscriere@5e3757fa, concurs.model.DTOInscriere@5b6c9fdb, concurs.model.DTOInscriere@5785a13, concurs.model.DTOInscriere@621c1019, concurs.model.DTOInscriere@6f00327, concurs.model.DTOInscriere@39ddc665, concurs.model.DTOInscriere@7eb2ab8f, concurs.model.DTOInscriere@7c2cf098, concurs.model.DTOInscriere@7ac33d01, concurs.model.DTOInscriere@2dfa22d2, concurs.model.DTOInscriere@467f1a31, concurs.model.DTOInscriere@5d4c8a56]
+14 Apr 2019 21:51:12,729 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 21:51:23,027 [Thread-2] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 21:51:44,803 [Thread-3] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 21:51:45,806 [Thread-3] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 21:51:46,813 [Thread-3] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 21:51:49,167 [Thread-3] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:51:49,178 [Thread-3] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@2cb9e179, concurs.model.DTOInscriere@40223915, concurs.model.DTOInscriere@266715e3, concurs.model.DTOInscriere@6f4a8f73, concurs.model.DTOInscriere@c9b09ca, concurs.model.DTOInscriere@5d2063dd, concurs.model.DTOInscriere@4376bd97, concurs.model.DTOInscriere@78fc939d, concurs.model.DTOInscriere@2c7d0011, concurs.model.DTOInscriere@729da0c8, concurs.model.DTOInscriere@4f13109, concurs.model.DTOInscriere@188d3a71, concurs.model.DTOInscriere@5cb4dcf9, concurs.model.DTOInscriere@43b0bc47]
+14 Apr 2019 21:52:27,966 [Thread-3] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 21:52:27,970 [Thread-3] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:42342342324 
+14 Apr 2019 21:52:28,108 [Thread-3] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 21:56:06,769 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:56:06,785 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 21:56:06,800 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 21:56:06,816 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 21:56:07,660 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:56:07,675 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:56:07,675 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:56:07,675 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:56:07,675 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:56:07,675 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 21:56:07,675 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 21:56:26,014 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 21:56:27,041 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 21:56:28,079 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 21:56:30,861 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:56:30,870 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@583d43da, concurs.model.DTOInscriere@9671060, concurs.model.DTOInscriere@3800a9db, concurs.model.DTOInscriere@326c5594, concurs.model.DTOInscriere@fde390, concurs.model.DTOInscriere@312807ff, concurs.model.DTOInscriere@c5b2e70, concurs.model.DTOInscriere@5ccb0a9a, concurs.model.DTOInscriere@334593f0, concurs.model.DTOInscriere@42a36d98, concurs.model.DTOInscriere@17dee312, concurs.model.DTOInscriere@13c5a4a9]
+14 Apr 2019 21:56:31,880 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:56:31,893 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@44b7454f, concurs.model.DTOInscriere@18ea328f, concurs.model.DTOInscriere@1a5f4fca, concurs.model.DTOInscriere@3f32daab, concurs.model.DTOInscriere@41517d3f, concurs.model.DTOInscriere@86651d0, concurs.model.DTOInscriere@68277e09, concurs.model.DTOInscriere@41690624, concurs.model.DTOInscriere@b9b33b3, concurs.model.DTOInscriere@31c90bc1, concurs.model.DTOInscriere@62cdfcc7, concurs.model.DTOInscriere@6b9c8e9c, concurs.model.DTOInscriere@39482ef7, concurs.model.DTOInscriere@4026ad1c]
+14 Apr 2019 21:56:32,904 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:56:32,910 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@55c575a6, concurs.model.DTOInscriere@feeabe0, concurs.model.DTOInscriere@46450d7d, concurs.model.DTOInscriere@7a7f5dbc, concurs.model.DTOInscriere@4696f10, concurs.model.DTOInscriere@7ea265d6, concurs.model.DTOInscriere@1062b19a, concurs.model.DTOInscriere@10f09c97, concurs.model.DTOInscriere@5f2e6076, concurs.model.DTOInscriere@324f2290]
+14 Apr 2019 21:56:50,091 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 21:56:50,095 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:131423424423 
+14 Apr 2019 21:56:50,199 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 21:57:11,663 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 21:57:11,664 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:13142342444 
+14 Apr 2019 21:57:11,772 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 21:57:15,514 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:57:15,524 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@71981a75, concurs.model.DTOInscriere@6c305a20, concurs.model.DTOInscriere@2261a246, concurs.model.DTOInscriere@1802c90e, concurs.model.DTOInscriere@297823c9, concurs.model.DTOInscriere@47f78d9c, concurs.model.DTOInscriere@68ab74b6, concurs.model.DTOInscriere@666f9a14, concurs.model.DTOInscriere@e619b7b, concurs.model.DTOInscriere@75816c46, concurs.model.DTOInscriere@463ca884, concurs.model.DTOInscriere@5c99356d, concurs.model.DTOInscriere@5e21d7c6, concurs.model.DTOInscriere@20bc7318]
+14 Apr 2019 21:57:16,535 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:57:16,544 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@341ea27f, concurs.model.DTOInscriere@1f31f334, concurs.model.DTOInscriere@6b02729e, concurs.model.DTOInscriere@86e58cd, concurs.model.DTOInscriere@49221ee5, concurs.model.DTOInscriere@599afca6, concurs.model.DTOInscriere@21f4f389, concurs.model.DTOInscriere@5ba66f4a, concurs.model.DTOInscriere@2aa97ed, concurs.model.DTOInscriere@cdb24d2, concurs.model.DTOInscriere@a35f67b, concurs.model.DTOInscriere@62010448]
+14 Apr 2019 21:57:17,793 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 21:57:17,801 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@f21fa58, concurs.model.DTOInscriere@1a0e8ae0, concurs.model.DTOInscriere@41a748b2, concurs.model.DTOInscriere@238625dc, concurs.model.DTOInscriere@23f5f8ce, concurs.model.DTOInscriere@4d422fda, concurs.model.DTOInscriere@365b0c18, concurs.model.DTOInscriere@246167ca, concurs.model.DTOInscriere@28dec800, concurs.model.DTOInscriere@743e0e3e]
+14 Apr 2019 22:02:33,392 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:02:33,408 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 22:02:33,424 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 22:02:33,424 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 22:02:34,596 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 22:02:34,596 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:02:34,596 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 22:02:34,596 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:02:34,596 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 22:02:34,642 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:02:34,658 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+14 Apr 2019 22:03:27,574 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:03:28,603 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:03:29,631 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:03:32,485 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:03:32,494 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6e4172e6, concurs.model.DTOInscriere@571f08c2, concurs.model.DTOInscriere@375fa3e5, concurs.model.DTOInscriere@6284fcc7, concurs.model.DTOInscriere@7377433, concurs.model.DTOInscriere@2841250f, concurs.model.DTOInscriere@62cbfb69, concurs.model.DTOInscriere@276c5133, concurs.model.DTOInscriere@1bc63f01, concurs.model.DTOInscriere@3a0e182b, concurs.model.DTOInscriere@723bcb0, concurs.model.DTOInscriere@420390ae]
+14 Apr 2019 22:03:57,127 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:04:10,766 [Thread-2] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:04:11,768 [Thread-2] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:04:12,775 [Thread-2] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:04:15,123 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:15,128 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@59e80ca1, concurs.model.DTOInscriere@6f6f6e1c, concurs.model.DTOInscriere@7e99c9, concurs.model.DTOInscriere@113f92ba, concurs.model.DTOInscriere@82b0938, concurs.model.DTOInscriere@1ca099af, concurs.model.DTOInscriere@68e4eb23, concurs.model.DTOInscriere@5230ec7, concurs.model.DTOInscriere@5511a592, concurs.model.DTOInscriere@4de4237e, concurs.model.DTOInscriere@2167412, concurs.model.DTOInscriere@1f5e07a1]
+14 Apr 2019 22:04:21,327 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:21,336 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6c4b8dd5, concurs.model.DTOInscriere@5f95c4a9, concurs.model.DTOInscriere@168a3c99, concurs.model.DTOInscriere@2ce5a776, concurs.model.DTOInscriere@1c70a21a, concurs.model.DTOInscriere@6db18db1, concurs.model.DTOInscriere@2a980a6a, concurs.model.DTOInscriere@2b47d658, concurs.model.DTOInscriere@323ed158, concurs.model.DTOInscriere@53831eab, concurs.model.DTOInscriere@392295eb, concurs.model.DTOInscriere@2c426181, concurs.model.DTOInscriere@68b2c140, concurs.model.DTOInscriere@230ffcbb]
+14 Apr 2019 22:04:23,852 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:23,861 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7d8cac0e, concurs.model.DTOInscriere@59eb8a01, concurs.model.DTOInscriere@50305052, concurs.model.DTOInscriere@2d769796, concurs.model.DTOInscriere@3502b2ea, concurs.model.DTOInscriere@303c8dc9, concurs.model.DTOInscriere@62dce95c, concurs.model.DTOInscriere@7b0f18b6, concurs.model.DTOInscriere@5bba70df, concurs.model.DTOInscriere@fbcfca4]
+14 Apr 2019 22:04:25,594 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:25,609 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@38c0e8a7, concurs.model.DTOInscriere@1eba9a34, concurs.model.DTOInscriere@7ea3ec56, concurs.model.DTOInscriere@10b052de, concurs.model.DTOInscriere@2f8a05bf, concurs.model.DTOInscriere@652b4140, concurs.model.DTOInscriere@40bd0ef, concurs.model.DTOInscriere@16bf4412, concurs.model.DTOInscriere@69e71c87, concurs.model.DTOInscriere@56f961ba, concurs.model.DTOInscriere@caf5f22, concurs.model.DTOInscriere@60dc1571]
+14 Apr 2019 22:04:28,895 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:28,901 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@568a4467, concurs.model.DTOInscriere@91942c2, concurs.model.DTOInscriere@2470d119, concurs.model.DTOInscriere@f2b5d2a, concurs.model.DTOInscriere@b8699d4, concurs.model.DTOInscriere@484ad534, concurs.model.DTOInscriere@6a103d3d, concurs.model.DTOInscriere@3f07ef58, concurs.model.DTOInscriere@f09955, concurs.model.DTOInscriere@1e0d1f0a, concurs.model.DTOInscriere@759f2023, concurs.model.DTOInscriere@75e26ce7]
+14 Apr 2019 22:04:30,855 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:30,862 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6afe2809, concurs.model.DTOInscriere@2a75ba01, concurs.model.DTOInscriere@6b5486bf, concurs.model.DTOInscriere@17c90c16, concurs.model.DTOInscriere@c6cd086, concurs.model.DTOInscriere@b4ec6b8, concurs.model.DTOInscriere@44e0c810, concurs.model.DTOInscriere@1b16d526, concurs.model.DTOInscriere@7194de22, concurs.model.DTOInscriere@c12adae]
+14 Apr 2019 22:04:32,882 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:32,891 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@5c9919dc, concurs.model.DTOInscriere@69ad6c76, concurs.model.DTOInscriere@33a001ce, concurs.model.DTOInscriere@3833d2b5, concurs.model.DTOInscriere@2c707b96, concurs.model.DTOInscriere@2ebc6cb2, concurs.model.DTOInscriere@1d21b6da, concurs.model.DTOInscriere@3b2169b1, concurs.model.DTOInscriere@14221988, concurs.model.DTOInscriere@59363e42, concurs.model.DTOInscriere@49b1d4d8, concurs.model.DTOInscriere@796d40be, concurs.model.DTOInscriere@7d87f842, concurs.model.DTOInscriere@152b1d9e]
+14 Apr 2019 22:04:34,048 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:34,055 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6da6d6cf, concurs.model.DTOInscriere@7347577e, concurs.model.DTOInscriere@7d25ed3d, concurs.model.DTOInscriere@73a780fc, concurs.model.DTOInscriere@28ec30e9, concurs.model.DTOInscriere@61596e2d, concurs.model.DTOInscriere@33472b3e, concurs.model.DTOInscriere@7ca8edca, concurs.model.DTOInscriere@358af1ce, concurs.model.DTOInscriere@1f08d954, concurs.model.DTOInscriere@151c0f50, concurs.model.DTOInscriere@2ee16684]
+14 Apr 2019 22:04:35,064 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:35,072 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@43d23bbd, concurs.model.DTOInscriere@64ca4591, concurs.model.DTOInscriere@a56d461, concurs.model.DTOInscriere@3eda5817, concurs.model.DTOInscriere@6c8793a2, concurs.model.DTOInscriere@5a57a56e, concurs.model.DTOInscriere@669e9799, concurs.model.DTOInscriere@ae871bd, concurs.model.DTOInscriere@5a22f9c1, concurs.model.DTOInscriere@3d395b3e]
+14 Apr 2019 22:04:36,079 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:36,086 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@203eedd2, concurs.model.DTOInscriere@2285e4e0, concurs.model.DTOInscriere@63afe8b2, concurs.model.DTOInscriere@3dc71f7d, concurs.model.DTOInscriere@6ac0256a, concurs.model.DTOInscriere@67ef7e36, concurs.model.DTOInscriere@7b19e001, concurs.model.DTOInscriere@7ea024e8, concurs.model.DTOInscriere@15a0a523, concurs.model.DTOInscriere@9a2776f, concurs.model.DTOInscriere@3d0f87b2, concurs.model.DTOInscriere@4277739f, concurs.model.DTOInscriere@52ee4f4f, concurs.model.DTOInscriere@48ed5372]
+14 Apr 2019 22:04:37,606 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:37,613 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@58317de2, concurs.model.DTOInscriere@76655f10, concurs.model.DTOInscriere@7ddc30cb, concurs.model.DTOInscriere@5f8cf423, concurs.model.DTOInscriere@c014c5d, concurs.model.DTOInscriere@50400f12, concurs.model.DTOInscriere@4c0627b9, concurs.model.DTOInscriere@7413fff6, concurs.model.DTOInscriere@7276268d, concurs.model.DTOInscriere@229e9f4e, concurs.model.DTOInscriere@5f584f4b, concurs.model.DTOInscriere@34dff719]
+14 Apr 2019 22:04:38,626 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:38,632 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6c4cafd4, concurs.model.DTOInscriere@218a1db0, concurs.model.DTOInscriere@7aab7472, concurs.model.DTOInscriere@45571160, concurs.model.DTOInscriere@4cec2411, concurs.model.DTOInscriere@3d7ac7a1, concurs.model.DTOInscriere@1c532c98, concurs.model.DTOInscriere@6172e263, concurs.model.DTOInscriere@4c139ef0, concurs.model.DTOInscriere@27bf1f1c]
+14 Apr 2019 22:04:39,639 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:39,648 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@75ef6cc, concurs.model.DTOInscriere@43150e09, concurs.model.DTOInscriere@290ba7f8, concurs.model.DTOInscriere@7eeb1668, concurs.model.DTOInscriere@e7377ef, concurs.model.DTOInscriere@657d456e, concurs.model.DTOInscriere@113d0a5e, concurs.model.DTOInscriere@37c31647, concurs.model.DTOInscriere@221ad35f, concurs.model.DTOInscriere@2d43b447, concurs.model.DTOInscriere@5455244b, concurs.model.DTOInscriere@7b0b71a8, concurs.model.DTOInscriere@f7fd5bd, concurs.model.DTOInscriere@3faea999]
+14 Apr 2019 22:04:40,946 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:40,951 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@783f8bfa, concurs.model.DTOInscriere@1e814f3e, concurs.model.DTOInscriere@3f8049ae, concurs.model.DTOInscriere@3e313f18, concurs.model.DTOInscriere@3ad5137f, concurs.model.DTOInscriere@2eb953a4, concurs.model.DTOInscriere@13c9b2e4, concurs.model.DTOInscriere@2437867a, concurs.model.DTOInscriere@36eb2768, concurs.model.DTOInscriere@52ab6662, concurs.model.DTOInscriere@cabb041, concurs.model.DTOInscriere@1437f3f8, concurs.model.DTOInscriere@7b084671, concurs.model.DTOInscriere@7219b704]
+14 Apr 2019 22:04:41,956 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:04:41,962 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@79a13e0c, concurs.model.DTOInscriere@29efcdd7, concurs.model.DTOInscriere@55d87f3c, concurs.model.DTOInscriere@1aa0d5d0, concurs.model.DTOInscriere@6a01d9d6, concurs.model.DTOInscriere@3dd73034, concurs.model.DTOInscriere@2be0992d, concurs.model.DTOInscriere@37f2d7d4, concurs.model.DTOInscriere@53d96795, concurs.model.DTOInscriere@578bab4a, concurs.model.DTOInscriere@780d7967, concurs.model.DTOInscriere@59605dc5]
+14 Apr 2019 22:06:20,221 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:06:20,237 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 22:06:20,237 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 22:06:20,252 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 22:06:21,377 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:06:21,455 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:06:21,455 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:06:21,471 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:06:21,471 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:06:21,471 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:06:21,471 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:06:39,720 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:06:41,157 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:06:42,223 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:06:58,224 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:06:58,265 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6a58600f, concurs.model.DTOInscriere@36ba2d76, concurs.model.DTOInscriere@478179bf, concurs.model.DTOInscriere@60f8e773, concurs.model.DTOInscriere@4909ab7b, concurs.model.DTOInscriere@2ebffeb1, concurs.model.DTOInscriere@62bf2658, concurs.model.DTOInscriere@45db8603, concurs.model.DTOInscriere@410dafb0, concurs.model.DTOInscriere@10168b56, concurs.model.DTOInscriere@b80f2ea, concurs.model.DTOInscriere@12f29607]
+14 Apr 2019 22:07:28,074 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:07:28,077 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@14dbefb4, concurs.model.DTOInscriere@69cff473, concurs.model.DTOInscriere@6d0dba47, concurs.model.DTOInscriere@7ab131e, concurs.model.DTOInscriere@4cc6ea10, concurs.model.DTOInscriere@5a3ce397, concurs.model.DTOInscriere@5a63a515, concurs.model.DTOInscriere@58f7ea4, concurs.model.DTOInscriere@7e62926f, concurs.model.DTOInscriere@437ff66f, concurs.model.DTOInscriere@473a818, concurs.model.DTOInscriere@7af79c6c, concurs.model.DTOInscriere@10ec88b7, concurs.model.DTOInscriere@2c1cd84b]
+14 Apr 2019 22:07:29,459 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:07:29,462 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@51be5f06, concurs.model.DTOInscriere@50220cc7, concurs.model.DTOInscriere@2e0f89f, concurs.model.DTOInscriere@13b88d6a, concurs.model.DTOInscriere@30ddb674, concurs.model.DTOInscriere@70d9d09c, concurs.model.DTOInscriere@75f8ea18, concurs.model.DTOInscriere@227cfa10, concurs.model.DTOInscriere@7f4f963d, concurs.model.DTOInscriere@412ce478]
+14 Apr 2019 22:07:44,302 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:07:44,326 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:4324242424 
+14 Apr 2019 22:07:44,553 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 22:07:50,417 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:07:53,378 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:08:00,225 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:08:02,474 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:08:04,532 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:04,544 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@35fd8b51, concurs.model.DTOInscriere@78ecaf6, concurs.model.DTOInscriere@152f8985, concurs.model.DTOInscriere@29c610d, concurs.model.DTOInscriere@5be2c50c, concurs.model.DTOInscriere@2aca7dfc, concurs.model.DTOInscriere@43c0ba81, concurs.model.DTOInscriere@22b52ffd, concurs.model.DTOInscriere@6fb25402, concurs.model.DTOInscriere@16eee195, concurs.model.DTOInscriere@50bc457b, concurs.model.DTOInscriere@5b7d4256, concurs.model.DTOInscriere@26921f7f, concurs.model.DTOInscriere@4711a071]
+14 Apr 2019 22:08:06,380 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:06,385 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@4353a02b, concurs.model.DTOInscriere@15cb7617, concurs.model.DTOInscriere@56fdf728, concurs.model.DTOInscriere@2f249e0f, concurs.model.DTOInscriere@71a82138, concurs.model.DTOInscriere@3f9d9ad4, concurs.model.DTOInscriere@6e06eb8, concurs.model.DTOInscriere@dbf5c8d, concurs.model.DTOInscriere@3d2e0de3, concurs.model.DTOInscriere@6eb66ba8, concurs.model.DTOInscriere@6b265d68, concurs.model.DTOInscriere@1c0a3fb5]
+14 Apr 2019 22:08:07,389 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:07,396 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7bf5e046, concurs.model.DTOInscriere@351926bd, concurs.model.DTOInscriere@5b81a71e, concurs.model.DTOInscriere@1ea48314, concurs.model.DTOInscriere@4a07a756, concurs.model.DTOInscriere@36d74c65, concurs.model.DTOInscriere@6038b4f6, concurs.model.DTOInscriere@5abe37c6, concurs.model.DTOInscriere@2df406d0, concurs.model.DTOInscriere@214cc36f]
+14 Apr 2019 22:08:08,508 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:08,520 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@21dc9c9b, concurs.model.DTOInscriere@25e471c9, concurs.model.DTOInscriere@5df76624, concurs.model.DTOInscriere@31dd8703, concurs.model.DTOInscriere@74a0fde7, concurs.model.DTOInscriere@724ca083, concurs.model.DTOInscriere@146c3ea8, concurs.model.DTOInscriere@495446b9, concurs.model.DTOInscriere@3a68d5b1, concurs.model.DTOInscriere@2db732c7, concurs.model.DTOInscriere@585bd0a7, concurs.model.DTOInscriere@3351349b, concurs.model.DTOInscriere@4f68aa1d, concurs.model.DTOInscriere@5bdd983d]
+14 Apr 2019 22:08:09,532 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:09,540 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@5e04a7f2, concurs.model.DTOInscriere@fe2cf15, concurs.model.DTOInscriere@732187af, concurs.model.DTOInscriere@4e3c71d9, concurs.model.DTOInscriere@357c64db, concurs.model.DTOInscriere@2cff8f06, concurs.model.DTOInscriere@539c79c9, concurs.model.DTOInscriere@7e0368da, concurs.model.DTOInscriere@280f917d, concurs.model.DTOInscriere@78d8bcc5, concurs.model.DTOInscriere@48bac026, concurs.model.DTOInscriere@2d1a2453]
+14 Apr 2019 22:08:29,644 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:29,656 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@48e6ca56, concurs.model.DTOInscriere@4e2b1a5, concurs.model.DTOInscriere@60664e42, concurs.model.DTOInscriere@7f0fe7b, concurs.model.DTOInscriere@793a30a9, concurs.model.DTOInscriere@6844c9b2, concurs.model.DTOInscriere@3a828ea6, concurs.model.DTOInscriere@3a01bcab, concurs.model.DTOInscriere@12167c3a, concurs.model.DTOInscriere@5c513e93, concurs.model.DTOInscriere@72086c01, concurs.model.DTOInscriere@45db620f, concurs.model.DTOInscriere@640d3122, concurs.model.DTOInscriere@31fd3e96]
+14 Apr 2019 22:08:31,621 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:31,629 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@471d2afd, concurs.model.DTOInscriere@65371605, concurs.model.DTOInscriere@500094bf, concurs.model.DTOInscriere@48443fc0, concurs.model.DTOInscriere@6620bef7, concurs.model.DTOInscriere@3b7a0b08, concurs.model.DTOInscriere@6f8bd5b4, concurs.model.DTOInscriere@6584dba, concurs.model.DTOInscriere@65ec8c80, concurs.model.DTOInscriere@ea5f97e, concurs.model.DTOInscriere@3f32bb6b, concurs.model.DTOInscriere@7b4314aa]
+14 Apr 2019 22:08:32,639 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:32,645 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@5f487fed, concurs.model.DTOInscriere@4e4dbc0e, concurs.model.DTOInscriere@ebfe600, concurs.model.DTOInscriere@74454968, concurs.model.DTOInscriere@686ee71a, concurs.model.DTOInscriere@4b609bd5, concurs.model.DTOInscriere@3a1efb5f, concurs.model.DTOInscriere@644eeb7d, concurs.model.DTOInscriere@7b8796d9, concurs.model.DTOInscriere@3476144f]
+14 Apr 2019 22:08:33,650 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:08:33,659 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@13ac38a4, concurs.model.DTOInscriere@7f01866a, concurs.model.DTOInscriere@78f952e1, concurs.model.DTOInscriere@cd57b73, concurs.model.DTOInscriere@7ece0b55, concurs.model.DTOInscriere@d0fe030, concurs.model.DTOInscriere@3f53c52a, concurs.model.DTOInscriere@18fa3f50, concurs.model.DTOInscriere@16600bb9, concurs.model.DTOInscriere@649c6725, concurs.model.DTOInscriere@45c79409, concurs.model.DTOInscriere@c0e335e, concurs.model.DTOInscriere@1a25cca5, concurs.model.DTOInscriere@1d87258b]
+14 Apr 2019 22:08:34,713 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:08:42,305 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:08:42,306 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+14 Apr 2019 22:08:42,307 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+14 Apr 2019 22:08:42,608 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+14 Apr 2019 22:10:50,032 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:10:50,110 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 22:10:50,125 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 22:10:50,216 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 22:10:51,441 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:10:51,480 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:10:51,481 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:10:51,484 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:10:51,484 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:10:51,494 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:10:51,495 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:11:10,873 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:11:11,908 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:11:12,931 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:11:25,372 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:11:25,397 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:ewqeqweq 
+14 Apr 2019 22:11:25,665 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 22:11:43,064 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:11:53,814 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:11:53,827 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7545baec, concurs.model.DTOInscriere@4a72f72a, concurs.model.DTOInscriere@219e74ac, concurs.model.DTOInscriere@bb19eaf, concurs.model.DTOInscriere@53fbd7ef, concurs.model.DTOInscriere@e6da11d, concurs.model.DTOInscriere@5c049f68, concurs.model.DTOInscriere@5bc726a1, concurs.model.DTOInscriere@568ec699, concurs.model.DTOInscriere@3508e01c, concurs.model.DTOInscriere@4d0fd60a, concurs.model.DTOInscriere@2f9f0324, concurs.model.DTOInscriere@f05b240, concurs.model.DTOInscriere@7dffbbbc]
+14 Apr 2019 22:13:09,230 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:13:10,232 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:13:11,238 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:13:56,951 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 22:13:56,952 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:43242342342 
+14 Apr 2019 22:13:57,060 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 22:13:57,062 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+14 Apr 2019 22:13:57,064 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+14 Apr 2019 22:13:57,184 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+14 Apr 2019 22:15:46,365 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:15:46,397 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 22:15:46,397 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 22:15:46,412 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 22:15:47,522 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:15:47,756 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:15:47,756 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:15:47,756 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:15:47,756 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:15:47,756 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:15:47,756 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:16:44,809 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:16:45,829 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:16:46,845 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:16:53,781 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:16:53,789 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@2235d92d, concurs.model.DTOInscriere@af6bf8c, concurs.model.DTOInscriere@1de3fb9b, concurs.model.DTOInscriere@7da9e897, concurs.model.DTOInscriere@71d9aabe, concurs.model.DTOInscriere@4e6c61d6, concurs.model.DTOInscriere@4c5174a3, concurs.model.DTOInscriere@7e8ec0ee, concurs.model.DTOInscriere@423e19db, concurs.model.DTOInscriere@6f71a29b, concurs.model.DTOInscriere@284237ba, concurs.model.DTOInscriere@20c31bec, concurs.model.DTOInscriere@12813eee, concurs.model.DTOInscriere@7006235f]
+14 Apr 2019 22:16:54,797 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:16:54,805 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@3dc54f9a, concurs.model.DTOInscriere@51e45db2, concurs.model.DTOInscriere@33f78cb, concurs.model.DTOInscriere@418847db, concurs.model.DTOInscriere@562669ef, concurs.model.DTOInscriere@25dca754, concurs.model.DTOInscriere@5ddd6a04, concurs.model.DTOInscriere@5e6848fb, concurs.model.DTOInscriere@3b643bc8, concurs.model.DTOInscriere@7bc2ddf7]
+14 Apr 2019 22:16:56,874 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:16:56,883 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@5fdee68d, concurs.model.DTOInscriere@1dc9deb6, concurs.model.DTOInscriere@568e7095, concurs.model.DTOInscriere@477b36b4, concurs.model.DTOInscriere@6fb94a58, concurs.model.DTOInscriere@3c560577, concurs.model.DTOInscriere@19f9d0b0, concurs.model.DTOInscriere@7299bad, concurs.model.DTOInscriere@22e7ea9a, concurs.model.DTOInscriere@2e163e0c, concurs.model.DTOInscriere@793d172e, concurs.model.DTOInscriere@32021f57, concurs.model.DTOInscriere@2f2c80b7, concurs.model.DTOInscriere@30553d00]
+14 Apr 2019 22:16:57,894 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:16:57,903 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7ab04b18, concurs.model.DTOInscriere@637615fb, concurs.model.DTOInscriere@19f5d744, concurs.model.DTOInscriere@501a4e31, concurs.model.DTOInscriere@288a37a1, concurs.model.DTOInscriere@7b003686, concurs.model.DTOInscriere@4c789155, concurs.model.DTOInscriere@4e11252d, concurs.model.DTOInscriere@37df3471, concurs.model.DTOInscriere@4d91800a, concurs.model.DTOInscriere@456b52d4, concurs.model.DTOInscriere@2143f19]
+14 Apr 2019 22:55:19,095 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:55:19,233 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 22:55:19,239 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 22:55:19,291 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 22:55:21,106 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:55:21,222 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:55:21,222 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:55:21,267 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:55:21,268 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:55:21,319 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 22:55:21,319 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 22:55:49,432 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:55:50,641 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:55:51,693 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:55:57,297 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:55:57,340 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@6a21c8df, concurs.model.DTOInscriere@27cec636, concurs.model.DTOInscriere@131bc5c1, concurs.model.DTOInscriere@2627af4f, concurs.model.DTOInscriere@4224fc64, concurs.model.DTOInscriere@130a7d60, concurs.model.DTOInscriere@5e72970d, concurs.model.DTOInscriere@4534065b, concurs.model.DTOInscriere@20960545, concurs.model.DTOInscriere@60b78d4a, concurs.model.DTOInscriere@2a37b4ae, concurs.model.DTOInscriere@4f54696d]
+14 Apr 2019 22:57:01,849 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 22:57:02,853 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:57:03,859 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 22:57:09,783 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:57:09,791 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@49b0e118, concurs.model.DTOInscriere@2c66c563, concurs.model.DTOInscriere@708a883f, concurs.model.DTOInscriere@6935af16, concurs.model.DTOInscriere@27c32b09, concurs.model.DTOInscriere@3d14af4f, concurs.model.DTOInscriere@197b13a2, concurs.model.DTOInscriere@5d725284, concurs.model.DTOInscriere@6357b140, concurs.model.DTOInscriere@7ba104b2, concurs.model.DTOInscriere@3a06fe67, concurs.model.DTOInscriere@75af7dd1]
+14 Apr 2019 22:57:10,795 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:57:10,798 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@27847b9d, concurs.model.DTOInscriere@5de572f1, concurs.model.DTOInscriere@44d6522c, concurs.model.DTOInscriere@4b2fe92, concurs.model.DTOInscriere@ee350a, concurs.model.DTOInscriere@766abd1c, concurs.model.DTOInscriere@dbd6cf, concurs.model.DTOInscriere@130efe28, concurs.model.DTOInscriere@6239cf26, concurs.model.DTOInscriere@41180c20, concurs.model.DTOInscriere@1fabc762, concurs.model.DTOInscriere@7bb09501, concurs.model.DTOInscriere@57dc25ae, concurs.model.DTOInscriere@56245a79]
+14 Apr 2019 22:57:12,139 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:57:12,146 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@428b196e, concurs.model.DTOInscriere@56bf382f, concurs.model.DTOInscriere@5c42e3c4, concurs.model.DTOInscriere@64f75f44, concurs.model.DTOInscriere@7ead7add, concurs.model.DTOInscriere@51fc4b67, concurs.model.DTOInscriere@1aebde5f, concurs.model.DTOInscriere@4438af39, concurs.model.DTOInscriere@51565ef1, concurs.model.DTOInscriere@624290cf, concurs.model.DTOInscriere@261fa3fe, concurs.model.DTOInscriere@275f8163, concurs.model.DTOInscriere@449df2af, concurs.model.DTOInscriere@322fd61b]
+14 Apr 2019 22:57:13,154 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:57:13,157 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@10e4cd1d, concurs.model.DTOInscriere@1b0c06e5, concurs.model.DTOInscriere@7ac58c42, concurs.model.DTOInscriere@7ba7ad68, concurs.model.DTOInscriere@4d1d0b24, concurs.model.DTOInscriere@365d174c, concurs.model.DTOInscriere@60ac2a59, concurs.model.DTOInscriere@262607c9, concurs.model.DTOInscriere@3c76c02, concurs.model.DTOInscriere@5dfeec41]
+14 Apr 2019 22:57:14,159 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:57:14,170 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@439ab5e3, concurs.model.DTOInscriere@3ad76b0e, concurs.model.DTOInscriere@6efe0933, concurs.model.DTOInscriere@31b56b39, concurs.model.DTOInscriere@2716e541, concurs.model.DTOInscriere@261875b6, concurs.model.DTOInscriere@383147d7, concurs.model.DTOInscriere@22c70f4b, concurs.model.DTOInscriere@326bdabf, concurs.model.DTOInscriere@57bbbc81, concurs.model.DTOInscriere@6506565e, concurs.model.DTOInscriere@7fa1b0e2, concurs.model.DTOInscriere@13f3238b, concurs.model.DTOInscriere@19a6dac0]
+14 Apr 2019 22:57:15,180 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 22:57:15,186 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@2dc72ed5, concurs.model.DTOInscriere@3b9e3c75, concurs.model.DTOInscriere@269835d2, concurs.model.DTOInscriere@6d0f0338, concurs.model.DTOInscriere@79aa29ca, concurs.model.DTOInscriere@339ddf1e, concurs.model.DTOInscriere@544c5a1a, concurs.model.DTOInscriere@41cf8568, concurs.model.DTOInscriere@698300e2, concurs.model.DTOInscriere@34bb47e3, concurs.model.DTOInscriere@21157e4, concurs.model.DTOInscriere@3f48760b]
+14 Apr 2019 23:36:36,163 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 23:36:36,196 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+14 Apr 2019 23:36:36,200 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+14 Apr 2019 23:36:36,240 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+14 Apr 2019 23:36:37,528 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 23:36:37,533 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 23:36:37,534 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 23:36:37,535 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 23:36:37,536 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 23:36:37,540 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+14 Apr 2019 23:36:37,541 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+14 Apr 2019 23:37:10,687 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+14 Apr 2019 23:37:11,932 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 23:37:12,967 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+14 Apr 2019 23:37:16,327 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 23:37:16,364 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@20d35027, concurs.model.DTOInscriere@160821b1, concurs.model.DTOInscriere@4ccb4728, concurs.model.DTOInscriere@2801260b, concurs.model.DTOInscriere@12e90944, concurs.model.DTOInscriere@453ba701, concurs.model.DTOInscriere@535f4a89, concurs.model.DTOInscriere@72cf0f97, concurs.model.DTOInscriere@28369ba3, concurs.model.DTOInscriere@302d220b, concurs.model.DTOInscriere@198f3d85, concurs.model.DTOInscriere@13b63a94, concurs.model.DTOInscriere@f4140c2, concurs.model.DTOInscriere@56a5165b]
+14 Apr 2019 23:37:17,372 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 23:37:17,383 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@9dc040, concurs.model.DTOInscriere@fc8d092, concurs.model.DTOInscriere@776a9893, concurs.model.DTOInscriere@76cb8ae4, concurs.model.DTOInscriere@18bacbbd, concurs.model.DTOInscriere@51bfc478, concurs.model.DTOInscriere@723260dc, concurs.model.DTOInscriere@580458d4, concurs.model.DTOInscriere@162d874a, concurs.model.DTOInscriere@391e1df3]
+14 Apr 2019 23:37:18,392 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 23:37:18,395 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@627e9d39, concurs.model.DTOInscriere@3d3f190a, concurs.model.DTOInscriere@3d4dd72e, concurs.model.DTOInscriere@6b23ac6e, concurs.model.DTOInscriere@7d226366, concurs.model.DTOInscriere@3810c281, concurs.model.DTOInscriere@6bb7960a, concurs.model.DTOInscriere@1d8107ce, concurs.model.DTOInscriere@73566e4b, concurs.model.DTOInscriere@4decbe6a, concurs.model.DTOInscriere@1a3c761b, concurs.model.DTOInscriere@f96ade5]
+14 Apr 2019 23:37:19,399 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 23:37:19,406 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@1da3a1e2, concurs.model.DTOInscriere@299c1714, concurs.model.DTOInscriere@5e0a48a1, concurs.model.DTOInscriere@2958de86, concurs.model.DTOInscriere@29f4c6fe, concurs.model.DTOInscriere@60195063, concurs.model.DTOInscriere@6c5a4381, concurs.model.DTOInscriere@3191c62, concurs.model.DTOInscriere@c55e9c9, concurs.model.DTOInscriere@26e52a68, concurs.model.DTOInscriere@189d337e, concurs.model.DTOInscriere@53acd603, concurs.model.DTOInscriere@7094661e, concurs.model.DTOInscriere@7fadb40e]
+14 Apr 2019 23:37:20,411 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+14 Apr 2019 23:37:20,421 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@9a085b6, concurs.model.DTOInscriere@364d28c6, concurs.model.DTOInscriere@69d4962c, concurs.model.DTOInscriere@12a12e5, concurs.model.DTOInscriere@c2aba43, concurs.model.DTOInscriere@537ea818, concurs.model.DTOInscriere@1e5631ad, concurs.model.DTOInscriere@4f3ab5b8, concurs.model.DTOInscriere@169bf6be, concurs.model.DTOInscriere@3003b21d]
+14 Apr 2019 23:37:41,034 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+14 Apr 2019 23:37:41,038 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:34232423423423 
+14 Apr 2019 23:37:41,268 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+14 Apr 2019 23:37:41,268 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:00:16,593 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:00:16,608 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:00:16,613 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:00:16,644 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:00:17,860 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:00:17,913 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:00:17,914 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:00:17,917 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:00:17,918 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:00:17,932 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:00:17,935 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:00:38,864 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:00:40,509 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:00:41,532 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:00:55,878 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:00:56,880 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:00:57,888 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:01:03,634 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:01:03,648 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@36e653c7, concurs.model.DTOInscriere@360a07bc, concurs.model.DTOInscriere@43ef4da6, concurs.model.DTOInscriere@7ba16925, concurs.model.DTOInscriere@7fdd65fd, concurs.model.DTOInscriere@198caa5d, concurs.model.DTOInscriere@203746b7, concurs.model.DTOInscriere@502ffbd5, concurs.model.DTOInscriere@44c98ea0, concurs.model.DTOInscriere@38eb1a26, concurs.model.DTOInscriere@22f3f172, concurs.model.DTOInscriere@d2d47aa]
+15 Apr 2019 00:01:04,996 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:01:05,001 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@39d68adf, concurs.model.DTOInscriere@4b0cdb28, concurs.model.DTOInscriere@a64110e, concurs.model.DTOInscriere@2470f91f, concurs.model.DTOInscriere@297d1f3c, concurs.model.DTOInscriere@40554a0, concurs.model.DTOInscriere@2ec3c94f, concurs.model.DTOInscriere@d586589, concurs.model.DTOInscriere@4c1d0fe1, concurs.model.DTOInscriere@6213f296, concurs.model.DTOInscriere@522ad62a, concurs.model.DTOInscriere@1c1085cb]
+15 Apr 2019 00:01:06,442 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:01:06,446 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@34254d8b, concurs.model.DTOInscriere@7b2ae888, concurs.model.DTOInscriere@7a7d2275, concurs.model.DTOInscriere@7c422120, concurs.model.DTOInscriere@62957236, concurs.model.DTOInscriere@4ed7a844, concurs.model.DTOInscriere@5d2a5561, concurs.model.DTOInscriere@300c34c5, concurs.model.DTOInscriere@7941f430, concurs.model.DTOInscriere@aa7e6d4, concurs.model.DTOInscriere@5293bbc, concurs.model.DTOInscriere@54d28dc0, concurs.model.DTOInscriere@2244131e, concurs.model.DTOInscriere@17e0c0c4]
+15 Apr 2019 00:01:07,901 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:01:07,908 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@4af3e222, concurs.model.DTOInscriere@dd37678, concurs.model.DTOInscriere@380108aa, concurs.model.DTOInscriere@5a984927, concurs.model.DTOInscriere@f2f52a4, concurs.model.DTOInscriere@1959858f, concurs.model.DTOInscriere@292d9a56, concurs.model.DTOInscriere@31643f25, concurs.model.DTOInscriere@44abe1df, concurs.model.DTOInscriere@110b7138, concurs.model.DTOInscriere@54b1a665, concurs.model.DTOInscriere@44bc26c1, concurs.model.DTOInscriere@5f828290, concurs.model.DTOInscriere@154abae9]
+15 Apr 2019 00:01:10,909 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:01:10,918 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@2621dd8d, concurs.model.DTOInscriere@5d5b3ff, concurs.model.DTOInscriere@605a085d, concurs.model.DTOInscriere@76d7c21d, concurs.model.DTOInscriere@5e32b4ff, concurs.model.DTOInscriere@7650be8d, concurs.model.DTOInscriere@46f848fa, concurs.model.DTOInscriere@ef7bd12, concurs.model.DTOInscriere@45a9657f, concurs.model.DTOInscriere@36fe0f91]
+15 Apr 2019 00:01:14,750 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:01:14,756 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@7c1f637a, concurs.model.DTOInscriere@43589cd1, concurs.model.DTOInscriere@35953fcd, concurs.model.DTOInscriere@5f9a5a48, concurs.model.DTOInscriere@5819e672, concurs.model.DTOInscriere@5f2057b4, concurs.model.DTOInscriere@435760ca, concurs.model.DTOInscriere@4e923af2, concurs.model.DTOInscriere@59af7f24, concurs.model.DTOInscriere@46f0e52, concurs.model.DTOInscriere@7cc67f25, concurs.model.DTOInscriere@23dc9fe5]
+15 Apr 2019 00:02:02,708 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:02:02,740 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:31323131231 
+15 Apr 2019 00:02:02,923 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:02:02,923 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:02:06,272 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:02:06,273 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:02:07,277 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:02:07,279 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:02:08,287 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:02:08,289 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:02:24,688 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:02:24,689 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:313231fhgg 
+15 Apr 2019 00:02:24,805 [Thread-1] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:02:24,806 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:07:09,983 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:07:10,001 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:07:10,007 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:07:10,023 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:07:11,186 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:07:11,254 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:07:11,255 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:07:11,266 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:07:11,267 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:07:11,275 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:07:11,279 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:07:39,638 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:07:40,801 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:07:41,816 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:07:45,153 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:07:45,160 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@2bed5073, concurs.model.DTOInscriere@2c049c92, concurs.model.DTOInscriere@4b294fd0, concurs.model.DTOInscriere@551fdaab, concurs.model.DTOInscriere@143076b3, concurs.model.DTOInscriere@1cd898ab, concurs.model.DTOInscriere@1d8e032f, concurs.model.DTOInscriere@36ef48b7, concurs.model.DTOInscriere@21fd3537, concurs.model.DTOInscriere@7938ec63]
+15 Apr 2019 00:07:46,167 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:07:46,172 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@244cc519, concurs.model.DTOInscriere@423f2126, concurs.model.DTOInscriere@523c0d6b, concurs.model.DTOInscriere@37e37c56, concurs.model.DTOInscriere@754503be, concurs.model.DTOInscriere@4e482a21, concurs.model.DTOInscriere@7c2d21d6, concurs.model.DTOInscriere@5080e3c9, concurs.model.DTOInscriere@d855294, concurs.model.DTOInscriere@2937827, concurs.model.DTOInscriere@17a5da32, concurs.model.DTOInscriere@40ecfda4, concurs.model.DTOInscriere@675a16df, concurs.model.DTOInscriere@7e111853]
+15 Apr 2019 00:08:01,934 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:08:01,973 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:3213123123123 
+15 Apr 2019 00:08:02,093 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:08:02,096 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:08:02,103 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+15 Apr 2019 00:08:02,201 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:11:16,930 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:11:16,938 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:11:16,945 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:11:16,959 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:11:18,364 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:11:18,461 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:11:18,462 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:11:18,466 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:11:18,466 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:11:18,481 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:11:18,486 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:11:38,369 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:11:40,084 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:11:41,106 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:11:45,304 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:11:45,325 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@51947a6e, concurs.model.DTOInscriere@3e2202eb, concurs.model.DTOInscriere@63c9e094, concurs.model.DTOInscriere@a05921c, concurs.model.DTOInscriere@78b0de38, concurs.model.DTOInscriere@56abae9f, concurs.model.DTOInscriere@7aca399e, concurs.model.DTOInscriere@5c79d1a9, concurs.model.DTOInscriere@22468500, concurs.model.DTOInscriere@29120881, concurs.model.DTOInscriere@23fd2f4, concurs.model.DTOInscriere@1059af83, concurs.model.DTOInscriere@621460d, concurs.model.DTOInscriere@3f4e1048]
+15 Apr 2019 00:11:46,336 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:11:46,347 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@519bfe93, concurs.model.DTOInscriere@148f2517, concurs.model.DTOInscriere@30f4d72b, concurs.model.DTOInscriere@18788af4, concurs.model.DTOInscriere@1619900e, concurs.model.DTOInscriere@7b53b847, concurs.model.DTOInscriere@6d087589, concurs.model.DTOInscriere@317b7df6, concurs.model.DTOInscriere@6bb80237, concurs.model.DTOInscriere@dcf1e87]
+15 Apr 2019 00:11:47,710 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:11:47,714 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [concurs.model.DTOInscriere@165a4bc7, concurs.model.DTOInscriere@554ad419, concurs.model.DTOInscriere@7524c4c6, concurs.model.DTOInscriere@76e596f6, concurs.model.DTOInscriere@3225ef9e, concurs.model.DTOInscriere@31cc0fdf, concurs.model.DTOInscriere@629defd4, concurs.model.DTOInscriere@38958757, concurs.model.DTOInscriere@2551d6c4, concurs.model.DTOInscriere@74329746, concurs.model.DTOInscriere@79dc255b, concurs.model.DTOInscriere@6d67aa08]
+15 Apr 2019 00:13:03,136 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:13:03,150 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:31312312312 
+15 Apr 2019 00:13:03,301 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:13:03,302 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:13:03,303 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p3
+15 Apr 2019 00:13:03,388 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:18:24,498 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:18:24,520 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:18:24,525 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:18:24,537 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:18:25,057 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:18:25,061 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:18:25,061 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:18:25,063 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:18:25,064 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:18:25,067 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:18:25,067 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 00:18:51,385 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:18:52,404 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:18:53,420 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:19:14,886 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:19:14,893 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:dasdadad 
+15 Apr 2019 00:19:14,992 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:19:14,993 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:19:14,995 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+15 Apr 2019 00:19:15,081 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:19:55,014 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:19:55,045 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:19:55,053 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:19:55,076 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:19:57,153 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:19:57,245 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:19:57,246 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:19:57,250 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:19:57,250 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:19:57,261 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:19:57,266 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:20:22,277 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:20:23,312 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:20:24,342 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:20:57,404 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:20:57,409 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:eqeqeqwe 
+15 Apr 2019 00:20:58,091 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:20:58,092 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:20:58,094 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p2
+15 Apr 2019 00:20:58,522 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:35:17,539 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:35:17,568 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:35:17,574 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:35:17,617 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:35:18,766 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:35:18,771 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:35:18,771 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:35:18,773 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:35:18,773 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:35:18,776 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:35:18,776 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:36:17,838 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:36:19,176 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:36:20,199 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:36:23,975 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:36:24,014 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=20, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=32, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Ghita', varsta=17, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='dsfdsf', varsta=23, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdvxcvxcvxc', varsta=34, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdgdf', varsta=43, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='vcxvx', varsta=42, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='hgfhgfg', varsta=56, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fdsfsdfs', varsta=35, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='dqsdada', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}]
+15 Apr 2019 00:36:25,032 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:36:25,041 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Bogdan', varsta=20, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='rrerewe', varsta=43, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='gdvxcvxcvxc', varsta=34, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='jgjhgjh', varsta=455, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdsfsdfs', varsta=35, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=34, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='dqsdada', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}]
+15 Apr 2019 00:36:26,053 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:36:26,062 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Mihai', varsta=20, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Sabrina', varsta=19, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Bogdan', varsta=20, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=32, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Bogdan', varsta=32, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Ghita', varsta=17, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdgdf', varsta=43, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='fdsfsd', varsta=34, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='fdsfsdfs', varsta=35, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='dqsdada', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}]
+15 Apr 2019 00:36:47,326 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:36:47,330 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:w21wwqwewqe 
+15 Apr 2019 00:36:47,495 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:36:47,496 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:36:47,498 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p2
+15 Apr 2019 00:36:47,673 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:36:47,674 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:36:53,850 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:36:53,851 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:w21wwqwewq 
+15 Apr 2019 00:36:54,064 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:36:54,065 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:36:54,067 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p2
+15 Apr 2019 00:36:54,186 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:36:54,187 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:37:15,234 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:37:15,240 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=20, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=32, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Ghita', varsta=17, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='dsfdsf', varsta=23, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdvxcvxcvxc', varsta=34, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdgdf', varsta=43, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='vcxvx', varsta=42, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='hgfhgfg', varsta=56, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fdsfsdfs', varsta=35, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='dqsdada', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}]
+15 Apr 2019 00:37:28,781 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:37:28,792 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Bogdan', varsta=20, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='rrerewe', varsta=43, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='gdvxcvxcvxc', varsta=34, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='jgjhgjh', varsta=455, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdsfsdfs', varsta=35, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=34, probe='Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='dqsdada', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}]
+15 Apr 2019 00:37:30,172 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:37:30,182 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Mihai', varsta=20, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Sabrina', varsta=19, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Bogdan', varsta=20, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=32, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Bogdan', varsta=32, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Ghita', varsta=17, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdgdf', varsta=43, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='fdsfsd', varsta=34, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='fdsfsdfs', varsta=35, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='dqsdada', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}]
+15 Apr 2019 00:37:31,191 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:37:31,199 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=20, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Bogdan', varsta=32, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='Ghita', varsta=17, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='dsfdsf', varsta=23, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdvxcvxcvxc', varsta=34, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='gdgdf', varsta=43, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fsdfsdfsd', varsta=46, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='vcxvx', varsta=42, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='hgfhgfg', varsta=56, probe='Proba 200 metri , stil Mixt
+'}, DTOInscriere{nume='fdsfsdfs', varsta=35, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='fdfsd', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}, DTOInscriere{nume='dqsdada', varsta=23, probe='Proba 50 metri , stil Fluture
+Proba 200 metri , stil Mixt
+Proba 800 metri , stil Spate
+'}]
+15 Apr 2019 00:40:11,367 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:40:11,377 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:40:11,382 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:40:11,404 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:40:15,484 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:40:15,498 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:40:15,499 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:40:15,503 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:40:15,503 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:40:15,511 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:40:15,515 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:40:33,433 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:40:34,460 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:40:35,494 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:40:54,799 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:40:54,805 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:321321321 
+15 Apr 2019 00:40:54,945 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:40:54,946 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:40:54,947 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+15 Apr 2019 00:40:55,035 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:50:37,635 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:50:37,645 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:50:37,651 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:50:37,665 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:50:39,133 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:50:39,157 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:50:39,157 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:50:39,162 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:50:39,162 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:50:39,173 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:50:39,177 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:51:03,399 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:51:04,529 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:51:05,552 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:51:09,565 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:51:09,571 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:51:11,408 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:51:11,412 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:51:12,414 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:51:12,415 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:51:13,416 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:51:13,420 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:51:14,422 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:51:14,426 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:51:15,426 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:51:15,427 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:51:16,428 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:51:16,432 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:51:34,732 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:51:34,736 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:111111111 
+15 Apr 2019 00:51:34,876 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 00:51:34,877 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:51:34,879 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+15 Apr 2019 00:51:34,974 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:54:28,478 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:54:28,495 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:54:28,502 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:54:28,542 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:54:31,017 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:54:31,044 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:54:31,044 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:54:31,051 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:54:31,052 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:54:31,059 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:54:31,074 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:54:54,326 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 00:54:55,509 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:54:56,544 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:54:59,313 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:54:59,323 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:55:00,329 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:55:00,331 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:55:01,331 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:55:01,334 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:55:03,332 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:55:03,335 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 00:55:05,014 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:55:05,018 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:55:50,925 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:55:50,927 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:55:50,930 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p2
+15 Apr 2019 00:55:51,090 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:55:51,095 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:111111111 and idProba:p2
+15 Apr 2019 00:55:51,208 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 00:55:51,208 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:55:54,940 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:55:54,945 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 00:55:58,327 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:55:58,332 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:55:59,332 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:55:59,334 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 00:56:00,337 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:56:00,343 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:56:07,930 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 00:56:07,930 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 00:56:07,931 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p2
+15 Apr 2019 00:56:08,033 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 00:56:08,034 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:111111111 and idProba:p2
+15 Apr 2019 00:56:08,066 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 37 save - org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_PRIMARYKEY]  A PRIMARY KEY constraint failed (UNIQUE constraint failed: Concurs.IDParticipant, Concurs.IDProba)
+15 Apr 2019 00:56:08,067 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 00:56:08,067 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 00:56:10,044 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:56:10,050 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 00:56:11,598 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:56:11,604 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:56:12,607 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:56:12,613 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 00:56:13,616 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 00:56:13,623 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 00:59:35,447 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:59:35,466 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 00:59:35,489 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 00:59:35,521 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 00:59:37,589 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:59:37,666 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:59:37,673 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:59:37,694 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:59:37,694 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 00:59:37,713 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 00:59:37,720 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 01:00:05,261 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 01:00:06,378 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 01:00:07,464 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 01:00:21,761 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 01:00:22,764 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 01:00:23,770 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 01:00:47,366 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 01:00:47,370 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:19999999999 
+15 Apr 2019 01:00:47,586 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 01:00:47,588 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 01:00:47,590 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p3
+15 Apr 2019 01:00:47,778 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 01:00:47,786 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:19999999999 and idProba:p3
+15 Apr 2019 01:00:47,982 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 01:00:47,982 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 01:00:57,568 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 01:00:57,569 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 01:00:57,570 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p3
+15 Apr 2019 01:00:57,762 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 01:00:57,763 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:19999999999 and idProba:p3
+15 Apr 2019 01:00:57,781 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 37 save - org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_PRIMARYKEY]  A PRIMARY KEY constraint failed (UNIQUE constraint failed: Concurs.IDParticipant, Concurs.IDProba)
+15 Apr 2019 01:00:57,782 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 01:00:57,782 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:15:49,011 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:15:49,027 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 10:15:49,043 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 10:15:49,074 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 10:15:50,820 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:15:50,990 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:15:50,990 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:15:51,006 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:15:51,006 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:15:51,115 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:15:51,115 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:16:54,475 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:16:55,664 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:16:56,678 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:17:00,111 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:00,153 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 10:17:01,553 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:01,555 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 10:17:03,464 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:03,465 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}]
+15 Apr 2019 10:17:04,848 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:04,850 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 10:17:05,852 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:05,854 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}]
+15 Apr 2019 10:17:06,855 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:06,857 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 10:17:08,064 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:08,066 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}]
+15 Apr 2019 10:17:09,067 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:09,068 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 10:17:10,069 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:17:10,071 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 10:20:15,516 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:20:15,552 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 10:20:15,558 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 10:20:15,626 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 10:20:17,083 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:20:17,094 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:20:17,095 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:20:17,121 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:20:17,121 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:20:17,127 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:20:17,128 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@1b8a29df)
+15 Apr 2019 10:20:21,178 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:20:22,199 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:20:23,219 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:24:37,142 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:24:37,173 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 10:24:37,173 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 10:24:37,235 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 10:24:38,225 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:24:38,225 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:24:38,225 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:24:38,225 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:24:38,225 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:24:38,245 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:24:38,246 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:24:59,011 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:25:00,030 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:25:01,050 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:26:29,070 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:26:34,883 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:26:41,159 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:27:05,914 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:27:05,952 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 10:32:57,262 [Thread-2] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:32:58,265 [Thread-2] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:32:59,268 [Thread-2] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:37:21,859 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:37:21,860 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 10:37:21,860 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 10:37:21,924 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 10:37:23,864 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:37:23,871 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:37:23,871 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:37:23,871 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:37:23,871 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:37:23,871 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:37:23,893 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+15 Apr 2019 10:37:46,583 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:37:47,612 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:37:48,628 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:53:01,512 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:53:01,527 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+15 Apr 2019 10:53:01,543 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+15 Apr 2019 10:53:01,559 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+15 Apr 2019 10:53:02,974 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+15 Apr 2019 10:53:02,974 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:53:02,990 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+15 Apr 2019 10:53:02,990 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:53:02,990 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+15 Apr 2019 10:53:02,990 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+15 Apr 2019 10:53:02,990 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@4fbe37eb)
+15 Apr 2019 10:53:34,021 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:53:35,203 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:53:36,222 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:53:51,997 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+15 Apr 2019 10:53:53,000 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:53:54,004 [Thread-1] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:54:00,784 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:00,851 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 10:54:01,869 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:01,872 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 10:54:03,462 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:03,464 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 10:54:05,712 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:05,714 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 10:54:07,824 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:07,826 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 10:54:08,920 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:08,921 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 10:54:09,922 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:09,924 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}]
+15 Apr 2019 10:54:10,976 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:10,977 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}]
+15 Apr 2019 10:54:11,978 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:11,979 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - []
+15 Apr 2019 10:54:13,888 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:13,889 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}]
+15 Apr 2019 10:54:42,557 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+15 Apr 2019 10:54:42,611 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:131412312313 
+15 Apr 2019 10:54:42,783 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+15 Apr 2019 10:54:42,785 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 10:54:42,787 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+15 Apr 2019 10:54:42,992 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 10:54:43,037 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:131412312313 and idProba:p1
+15 Apr 2019 10:54:43,144 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 10:54:43,145 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 10:54:43,146 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p2
+15 Apr 2019 10:54:43,267 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 10:54:43,268 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:131412312313 and idProba:p2
+15 Apr 2019 10:54:43,387 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 10:54:43,388 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 10:54:43,389 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p3
+15 Apr 2019 10:54:43,482 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 10:54:43,483 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:131412312313 and idProba:p3
+15 Apr 2019 10:54:43,590 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 10:54:43,591 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+15 Apr 2019 10:54:43,592 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p4
+15 Apr 2019 10:54:43,701 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+15 Apr 2019 10:54:43,702 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:131412312313 and idProba:p4
+15 Apr 2019 10:54:43,900 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+15 Apr 2019 10:54:43,901 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+15 Apr 2019 10:54:47,728 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:47,731 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+15 Apr 2019 10:54:50,360 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:50,362 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+15 Apr 2019 10:54:51,551 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:51,553 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+15 Apr 2019 10:54:52,751 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:52,753 [Thread-1] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+15 Apr 2019 10:54:53,720 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:53,725 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+15 Apr 2019 10:54:54,727 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:54,728 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+15 Apr 2019 10:54:55,729 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:55,731 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+15 Apr 2019 10:54:56,732 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+15 Apr 2019 10:54:56,734 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:23:05,745 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+16 Apr 2019 14:23:05,761 [main] concurs.persistance.jdbc.JavaDataBaseConnection 20 getNewConnection - Enter
+16 Apr 2019 14:23:05,777 [main] concurs.persistance.jdbc.JavaDataBaseConnection 25 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/Mihai/Desktop/Mpp/SQLite/Concurs.db
+16 Apr 2019 14:23:05,823 [main] concurs.persistance.jdbc.JavaDataBaseConnection 29 getNewConnection - Loaded driver ...org.sqlite.JDBC
+16 Apr 2019 14:23:07,214 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+16 Apr 2019 14:23:07,230 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+16 Apr 2019 14:23:07,230 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+16 Apr 2019 14:23:07,230 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+16 Apr 2019 14:23:07,230 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+16 Apr 2019 14:23:07,230 [main] concurs.persistance.jdbc.JavaDataBaseConnection 42 getConnection - Enter
+16 Apr 2019 14:23:07,245 [main] concurs.persistance.jdbc.JavaDataBaseConnection 51 getConnection - Exit with(org.sqlite.SQLiteConnection@12a94400)
+16 Apr 2019 14:23:50,664 [Thread-0] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+16 Apr 2019 14:23:52,008 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+16 Apr 2019 14:23:53,054 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+16 Apr 2019 14:24:11,362 [Thread-1] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+16 Apr 2019 14:24:23,573 [Thread-2] concurs.persistance.jdbc.RepositoryUsers 43 findBy - Enter
+16 Apr 2019 14:24:24,575 [Thread-2] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+16 Apr 2019 14:24:25,581 [Thread-2] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+16 Apr 2019 14:24:31,083 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:24:31,105 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:24:32,506 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:24:32,509 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:24:33,894 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:24:33,899 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:24:34,901 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:24:34,907 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:24:50,922 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 74 findOne - Enter
+16 Apr 2019 14:24:50,933 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 28 save - Enter save Participant with  idParticipant:21321312312 
+16 Apr 2019 14:24:51,080 [Thread-0] concurs.persistance.jdbc.RepositoryParticipanti 38 save - Exit
+16 Apr 2019 14:24:51,081 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+16 Apr 2019 14:24:51,083 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p1
+16 Apr 2019 14:24:51,175 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+16 Apr 2019 14:24:51,215 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:21321312312 and idProba:p1
+16 Apr 2019 14:24:51,312 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+16 Apr 2019 14:24:51,313 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+16 Apr 2019 14:24:51,315 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p2
+16 Apr 2019 14:24:51,430 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+16 Apr 2019 14:24:51,431 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:21321312312 and idProba:p2
+16 Apr 2019 14:24:51,554 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+16 Apr 2019 14:24:51,555 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+16 Apr 2019 14:24:51,556 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p3
+16 Apr 2019 14:24:51,658 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+16 Apr 2019 14:24:51,659 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:21321312312 and idProba:p3
+16 Apr 2019 14:24:51,769 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+16 Apr 2019 14:24:51,770 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 29 findOneByDistantaStil - Enter
+16 Apr 2019 14:24:51,772 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 93 update - Enter update Proba with  idProba:p4
+16 Apr 2019 14:24:51,857 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 104 update - Exit
+16 Apr 2019 14:24:51,858 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 30 save - Enter save Concurs with  idParticipant:21321312312 and idProba:p4
+16 Apr 2019 14:24:52,043 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 40 save - Exit
+16 Apr 2019 14:24:52,045 [Thread-0] concurs.persistance.jdbc.RepositoryProbe 110 getAll - Enter
+16 Apr 2019 14:24:57,339 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:24:57,343 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Mihai', varsta=20, probe='Proba 800 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}, DTOInscriere{nume='maria', varsta=23, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:24:59,613 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:24:59,619 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='ion', varsta=20, probe='Proba 200 metri , stil Spate
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}, DTOInscriere{nume='maria', varsta=23, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:25:00,624 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:25:00,629 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}, DTOInscriere{nume='maria', varsta=23, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:25:01,633 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:25:01,637 [Thread-0] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}, DTOInscriere{nume='maria', varsta=23, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]
+16 Apr 2019 14:25:02,835 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 115 findParticipantiByProba - Enter
+16 Apr 2019 14:25:02,838 [Thread-2] concurs.persistance.jdbc.RepositoryInscrieri 143 findParticipantiByProba - [DTOInscriere{nume='sabri', varsta=20, probe='Proba 50 metri , stil Fluture
+'}, DTOInscriere{nume='Daniel', varsta=19, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}, DTOInscriere{nume='maria', varsta=23, probe='Proba 800 metri , stil Fluture
+Proba 200 metri , stil Spate
+Proba 50 metri , stil Fluture
+Proba 800 metri , stil Mixt
+'}]

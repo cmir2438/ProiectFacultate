@@ -1,0 +1,8 @@
+rootProject.name = 'JavaConcursSockets'
+include 'ConcursModel'
+include 'ConcursPersistance'
+include 'ConcursServices'
+include 'ConcursNetworking'
+include 'ConcursClient'
+include 'ConcursServer'
+
